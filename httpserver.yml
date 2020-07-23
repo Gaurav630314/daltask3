@@ -31,7 +31,7 @@ spec:
  template:
    metadata:
      labels:
-       app: httserver
+       app: httpserver
    spec:
      containers:
      - name: httpimage
